@@ -34,6 +34,7 @@ Key Features
 * Comes with an ecosystem
 
   - online-first JS lib - Kinto.js (**landed in Firefox**)
+  - Python lib for servers (AMO, etc.)
   - admin web app
   - Ops-friendly !
 
