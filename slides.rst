@@ -60,6 +60,7 @@ Why not X ?
 * PouchDB / CouchDB / Hoodie
 * Firebase, Sparse
 * RemoteStorage
+* Balrog
 
 
 ----
