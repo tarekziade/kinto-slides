@@ -21,7 +21,7 @@
 Kinto
 #####
 
-Lightweight JSON storage HTTP service made for synchronisation.
+Lightweight JSON storage HTTP service for independent JSON records replication.
 
 ----
 
@@ -48,7 +48,7 @@ Use Cases
 
 * Firefox continuous updates (ex: sec settings, amo blocklist)
 * Offline-first JS apps (ex: Reading List, Firefox OS Sync)
-* Manifest & Frontend for S3 (ex: Fennec "OTA")
+* Manifest & Frontend for S3 (ex: Fennec Assets)
 
 
 ----
