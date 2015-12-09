@@ -113,3 +113,6 @@ Timeline (PROD)
 
 **Talk to us!**
 
+- IRC: #storage
+- mail: frenchies@mozilla.com
+
