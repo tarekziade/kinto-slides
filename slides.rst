@@ -21,7 +21,18 @@
 Kinto
 #####
 
-Lightweight JSON storage HTTP service for independent JSON records replication.
+Lightweight HTTP storage service
+
+
+----
+
+Value Proposition
+=================
+
+
+As a Firefox Developer, I can use Kinto to replicate independent JSON records
+without building my own client, server, and protocol.
+
 
 ----
 
@@ -33,7 +44,7 @@ Key Features
 * Dev friendly
 * Comes with an ecosystem
 
-  - online-first JS lib - Kinto.js (**landed in Firefox**)
+  - offline-first JS lib - Kinto.js (**landed in Firefox**)
   - Python lib for servers (AMO, etc.)
   - admin web app
   - Ops-friendly !
@@ -100,5 +111,5 @@ Timeline (PROD)
 
 ----
 
-**Talk to me**
+**Talk to us!**
 
